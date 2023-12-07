@@ -1,7 +1,7 @@
 # SMS Corpus Keyword Analysis
 
 ## Overview
-This repository contains the solution for Assignment 1 of the CS4225 AY23/24 Semester 1. The assignment focuses on analyzing text message communication differences between Singaporeans and Americans using Hadoop Streaming and keyword analysis. The assignment involves performing keyword analysis on the NUS SMS Corpus, which consists of messages collected around 2011. The goal is to identify keywords used preferentially by Singaporean users compared to Americans.
+This repository contains the solution for Assignment 1 of CS4225 Big Data Systems for Data Science AY23/24 Semester 1. The assignment focuses on analyzing text message communication differences between Singaporeans and Americans using Hadoop Streaming and keyword analysis. It involves performing keyword analysis on the NUS SMS Corpus, which consists of messages collected around 2011. The goal is to identify keywords used preferentially by Singaporean users compared to Americans.
 
 ## Key Points
 - `mapper.py` : Python script for the mapper phase in Hadoop Streaming.
